@@ -18,7 +18,7 @@ import com.dbconfig.DatabaseProvider;
 /**
  * Servlet implementation class Details
  */
-@WebServlet("/Details")
+@WebServlet("/details")
 public class Details extends HttpServlet {
 	private static final long serialVersionUID = 1L;
        
